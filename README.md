@@ -71,12 +71,17 @@ If anyone wants to contribute helpful material, feel free to:
 Together we can help more students.
 
 ---
+## ⚠️ Disclaimer
 
-## 📄 License
+The materials shared in this repository are **not originally created by me**.  
+All books, notes, past papers, and other resources belong to their respective authors, publishers, and rightful owners.
 
-This project is shared for educational purposes under the MIT License.
+I have **only compiled and organized these resources in one place** to make them easily accessible for students preparing for the PU Undergraduate Entry Test.
+
+If you are the rightful owner of any material and would like it to be removed, please feel free to reach out.
 
 ---
+
 
 ## ⭐ Support
 

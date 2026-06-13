@@ -78,7 +78,6 @@ All books, notes, past papers, and other resources belong to their respective au
 
 I have **only compiled and organized these resources in one place** to make them easily accessible for students preparing for the PU Undergraduate Entry Test.
 
-If you are the rightful owner of any material and would like it to be removed, please feel free to reach out.
 
 ---
 
